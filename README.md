@@ -1,12 +1,12 @@
 <div align="center">
-  <h1 align="center">Hi 👋, I'm AI Ninja</h1>
+  <h1 align="center">Hi 👋, I'm Christian</h1>
 
   <p>
     <h3 align="center">AI Software Engineer & AI Solutions Architect & Lead</h3>
   </p>
 
   <p>
-  🚀 With over 9 years of diverse industry experience, I specialize in backend development, web development, and comprehensive AI Solutions including NLP/ML, LLM/RAG, Vector Embedding, Hybrid Search (Sparse & Dense Embedding), TTS/STT, Img2Text, Text2Img, and Prompt Engineering. I have deployed my skills across healthcare, education, real estate, finance, and more, where I've designed and implemented sophisticated AI systems to drive organizational growth and efficiency.
+  🚀 With over 15 years of diverse industry experience, I specialize in backend development, web development, and comprehensive AI Solutions including NLP/ML, LLM/RAG, Vector Embedding, Hybrid Search (Sparse & Dense Embedding), TTS/STT, Img2Text, Text2Img, and Prompt Engineering. I have deployed my skills across healthcare, education, real estate, finance, and more, where I've designed and implemented sophisticated AI systems to drive organizational growth and efficiency.
   </p>
 </div>
 
