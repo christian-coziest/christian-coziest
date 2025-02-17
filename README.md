@@ -2,7 +2,7 @@
   <h1 align="center">Hi 👋, I'm Christian</h1>
 
   <p>
-    <h3 align="center">AI Software Engineer & AI Solutions Architect & Lead</h3>
+    <h3 align="center">Senior Software Engineer && Lead AI Engineer</h3>
   </p>
 
   <p>
